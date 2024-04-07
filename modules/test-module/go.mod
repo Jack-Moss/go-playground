@@ -1,4 +1,4 @@
-module test-module
+module github.com/Jack-Moss/go-playground/modules/test-module
 
 go 1.18
 
