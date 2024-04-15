@@ -1,10 +1,9 @@
 package main
 
 import (
-	"fmt"
 	"math"
 )
 
-func main() {
-	fmt.Println(math.Abs(01232.3))
+func Do_abs(number float64) float64 {
+	return math.Abs(number)
 }
