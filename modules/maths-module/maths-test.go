@@ -1,4 +1,4 @@
-package main
+package maths-module
 
 import (
 	"math"
